@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ferne-Kotlyar
-- 🌱 I am a graduate student studying pollination ecology at the University of Toronto, you can learn more here: [Ferne Kotlyar](http://ferne-kotlyar.com)
-- 🦫 In my spare time, I work on building interactive experiences for education and research in ecology: [Heliconia Interactive](https://heliconiainteractive.com)
+- 🌱 I am a PhD candidate researching pollination ecology at the University of Toronto, you can learn more here: [Ferne Kotlyar](http://ferne-kotlyar.com)
+- 🎮 In my spare time, I work on building interactive experiences for education and research in ecology: [Heliconia Interactive](https://heliconiainteractive.com)
 - 📫 You can contact me at ferne.kotlyar@mail.utoronto.ca
 
 <!---
